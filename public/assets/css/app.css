@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F8FAFC;
+  color: #0F172A;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #2563EB;
+  text-decoration: underline;
+}
