@@ -56,3 +56,13 @@ body {
 .product-text-color {
   color: #0F172A;
 }
+
+.location-title {
+  color: #0F172A;
+  font-size: 2.5rem;
+}
+
+.location-subtitle {
+  color: #0F172A;
+  font-size: 1.2rem;
+}
