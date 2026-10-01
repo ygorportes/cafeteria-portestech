@@ -40,3 +40,19 @@ body {
 .btn-products:hover {
   background: #4c7ee9;
 }
+
+.product-box {
+  background-color: #F1F5F9;
+  border-radius: 25px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.img-product {
+  border: 2px solid #0F172A;
+  border-radius: 25px;
+}
+
+.product-text-color {
+  color: #0F172A;
+}
