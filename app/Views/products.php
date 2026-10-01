@@ -32,7 +32,7 @@
     <div class="col">
       <div class="row mb-5 product-box">
         <div class="col-5 text-center">
-          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-01.png') ?>" alt="">
+          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-01.png') ?>" alt="Café espresso">
         </div>
         <div class="col-7 p-5">
           <h1 class="mb-3 product-text-color">Espresso</h1>
@@ -48,13 +48,13 @@
           <h2 class="mt-3 product-text-color">R$ 12,00</h2>
         </div>
         <div class="col-5 text-center">
-          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-02.png') ?>" alt="">
+          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-02.png') ?>" alt="Café com leite">
         </div>
       </div>
 
       <div class="row mb-5 product-box">
         <div class="col-5 text-center">
-          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-03.png') ?>" alt="">
+          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-03.png') ?>" alt="Cappuccino">
         </div>
         <div class="col-7 p-5">
           <h1 class="mb-3 product-text-color">Cappuccino</h1>
@@ -70,7 +70,7 @@
           <h2 class="mt-3 product-text-color">R$ 17,00</h2>
         </div>
         <div class="col-5 text-center">
-          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-04.png') ?>" alt="">
+          <img class="img-fluid img-product" src="<?= base_url('assets/images/coffe-04.png') ?>" alt="Chá gelado">
         </div>
       </div>
     </div>
